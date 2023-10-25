@@ -6,7 +6,7 @@ import base64
 
 st.set_page_config(layout="wide", page_title="Image Background Remover")
 
-st.write("## Gitdi - Remove background from your image")
+st.write("## [Gitdi](https://gitdi.com/) AI - Remove background from your image")
 st.write(
     "uploading an image to watch the background magically removed. Full quality images can be downloaded from the sidebar."
 )
